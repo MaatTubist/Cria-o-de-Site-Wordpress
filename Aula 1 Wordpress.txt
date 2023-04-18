@@ -1,0 +1,114 @@
+Aula 1 - Inicio ao Wordpress
+
+Wordpress - CMS (Content Management System) Sistema de Gestão de Conteúd
+
+Hostgator - hospedagem de Wordpress
+
+Exemplo de site Wordpress - Site da The White House(Casa Branca EUA)
+
+Ferramenta Builtwith para ver qual criador do site
+
+Ferramenta Convertte para Link de Whatsapp
+
+baixar Localwp:
+
+passo 1
+Clicar em download e selecionar o sistema operacional(nesse caso Windows)
+
+passo 2
+abrir o programa e selecionar instalação para todos ou apenas o admin
+
+passo 3
+execultar o programa, fazer o cadastro depois
+
+Execultando o programa vamos criar o primeiro site:
+
+passo 1
+clicar em create a new site e depois em continue
+
+passo 2 
+nomear site (aqui BlogDoMatheus) *observação: no "local site path" não usar caracteres especiais)
+
+passo 3
+selecionar preferred
+
+passo 4 
+registrar informações *importante*(usar nomes e senhas fortes para uso profissional)
+-username admin
+-password 123
+-email maat.fernandes05@gmail.com
+
+esperar o site carregar
+
+passo 5 
+click na opção *WP Admin* e abrirá seu navegador
+
+passo 6
+acesse a pagina administrativa do Wordpress:
+faça login
+-Username 
+-Password
+
+Nessa pagina temos as ferramentas e configurações do site
+
+vamos alterar o idioma e o fuso horário
+
+passo 1
+barra lateral esquerda clicar em *settings* 
+
+passo 2
+alterar em "site language" para Português Brasil
+
+passo 3
+alterar em "timezone" o fuso horario para "utc -3" e salvar alterações
+
+
+Utilizaremos Temas e Pluguins
+*Para cada projeto só pode utiliza 1 tema*
+*Não insirir muitos Pluguins para não sobrecarregar o site"
+*Média de 5 a 10 Pluguins no Máximo*
+*Pode utilizar o mesmo Pluguin diversas vezes sobre mesmas informações*
+
+Para instalar um Tema:
+passo 1
+barra lateral esquerda > passar o mouse sobre aparencia > selecionar temas
+
+passo 2
+clicar em adicionar novo
+
+passo 3 
+pesquisar tema "head blog" > passar o mouse sobre o tema e Selecionar Instalar e Ative
+
+
+Como criar um Post moderno
+passo 1
+Barra lateral esquerda > Posts > Adicionar novo
+
+Passo 2
+Adicionar Título e Assunto
+
+
+Para instalar Pluguins:
+passo 1
+Barra lateral esquerda > passar mouse sobre Plugins > adicionar novo
+
+passo 2
+instalar "editor classico" > ativar
+
+Voltar para Post
+barra lateral esquerda > posts > adicionar novo - agora com editor classico
+
+passo 1
+Adicionar Título - Melhores pontos turísticos em Fortaleza
+Adicionar Assunto - Visitei Fortaleza em Janeiro e a Praia do Meireles é muito bacana!
+
+passo 2
+em categorias > "adicionar nova categoria" > criar categoria brasil > crair dentro de brasil nordeste > dentro de nordeste criar > fortaleza
+
+
+
+
+
+
+
+
