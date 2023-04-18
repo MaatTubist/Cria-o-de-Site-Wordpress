@@ -1,0 +1,142 @@
+Aula 4
+
+*Para iniciarmos
+No Localwp > 
+Na barra lateral esquerda selecione o projeto >
+No canto superior direito clique em "start site" > 
+clique em "WP Admin" para iniciar a pagina do adm
+
+faça login com suas informações:
+-username
+-password
+
+*Vamos Criar um divisor
+Na barra lateral esquerda do WP > Paginas > 
+editar inicio> abrir elementor
+
+no editor elementor
+passe o mouse sobre a linha> selecione o divisor >
+Na barra lateral esquerda do "editar divisor"> conteudo >
+alterar "largura" para 25% > alterar alinhamento "Centralizar"
+adicionar elemento > selecionar Ícone (uma estrela) >
+biblioteca de Ícone > na barra de busca pesquise "Dog" >
+selecione o "Dog" > inserir
+
+Na barra lateral esquerda do "editar divisor"> estilo > 
+em divisor > cor > selecione a cor > digite o codígo Azul: #2fa1ed >
+em peso > mude para 2 para alterar a largura 
+em icone > cor primaria > selecione a cor > digite o codigo Amarelo: #ffd600
+para salvar > clique em atualizar
+
+
+*Vamos criar outra Linha
+clique em "+" > selecione a estrutura
+na barra lateral esquerda > ao lado de "editar seção" selecione o quadrado de 9 quadradinhos
+selecione o Titulo > arraste para estrutura > Adicione o Título: SUPER SEQUINHO
+
+*Vamos editar o Titulo
+barra lateral esquerda do "editar titulo" > conteudo > tamanho > selecione Grande
+alinhamento > selecione centralizado
+
+barra lateral esquerda do "editar titulo"> estilo > cor de texto > 
+selecione a cor > digite o codigo Amarelo: #ffd600
+tipografia > editar no "lapis" > em familia > digite a Fonte: Raleway
+em peso > selecione "800 (negrito extra)"
+para salvar > clique em atualizar
+
+utilizaremos as seguintes informações
+Trabalhamos com jornal multiuso, 100% biodegradável e folhas grandes de ótima qualidade. Entre em contato: (11) 91234-5678 ou pelo e-mail contato@supersequinho.com.br
+
+Na barra lateral esquerda > ao lado de "editar seção" selecione o quadrado de 9 quadradinhos
+selecione texto > arraste para a estrutura do Titulo abaixo do titulo
+
+*vamos adicionar o texto
+barra lateral esquerda do "editar texto" > conteudo > texto > adicione o texto
+barra lateral esquerda do "editar texto"> estilo >
+em alinhamento > centralizar
+cor de texto >  selecione a cor > digite o codigo Amarelo: #ffd600
+tipografia > editar no "lapis" > em familia > digite a Fonte: Raleway
+em tamanho > selecione 24 
+
+barra lateral esquerda do "editar texto"> conteudo >
+alterar barra de ferramentas (icone debaixo do "B") >
+selecione o texto do link > clique no clipes > selecione "A" >
+personalizar > digite o codigo Amarelo: #ffd600 
+
+passe o mouse sobre nossa estrutura > selecione as bolinhas
+ma barra lateral esquerda > estilo > fundo >
+tipo de fundo > classico (icone é um pinsel) 
+em cor > selecione a cor > digite o codigo Azul: #2fa1ed
+em divisor de forma > tipo > alterar para "montanhas"
+em cor > selecione a cor > digite o codigo Azul escuro: #23648F
+para salvar > clique em atualizar
+
+*Vamos duplicar um divisor
+passe o mouse sobre o divisor > selecione a 6 bolinhas com o botão direito > 
+selecione a opção duplicar >  selecione o item duplicado nas bolinhas  > arraste para debaixo do banner
+para salvar > atuaizar
+
+
+Título: SUPER SEQUINHO É INCRÍVEL, SEU PET VAI AMAR!
+O Pet´s News é o jornal multiuso, 100% biodegradável, com folhas grandes de ótima qualidade.
+IDEAL PARA:
+Petshops, hospitais e clínicas veterinárias, criadores e hotéis para animais domésticos. Indicado também para gaiola de pássaros e roedores, absorve umidade e líquidos.
+
+*Vamos criar outra Linha
+clique em "+" > selecione a estrutura com duas
+na barra lateral esquerda > ao lado de "editar seção" selecione o quadrado de 9 quadradinhos >
+selecione imagem > arraste para estrutura do lado esquerdo
+
+*Vamos adicionar imagem na estrutura do lado esquerdo
+na barra lateral esquerda > conteudo > escolher imagem > 
+selecionar o arquivo na pasta do computador > selecione imagem
+
+ *Vamos adicionar titulo e texto na estrtura direita
+barra lateral esquerda > 
+selecione titulo > arraste para estrutura do lado direito
+
+*vamos editar o titulo
+barra lateral esquerda > conteudo > adicione o titulo
+em tamanho > altere para grande
+
+barra lateral esquerda do "editar titulo"> estilo > cor de texto > 
+selecione a cor > digite o codigo Marrom: #452111
+tipografia > editar no "lapis" > em familia > digite a Fonte: Raleway
+em peso > selecione "800 (negrito extra)"
+para salvar > clique em atualizar
+
+*vamos adicionar o texto
+Barra lateral esquerda > ao lado de "editar seção" selecione o quadrado de 9 quadradinhos
+selecione texto > arraste para a estrutura do Titulo
+
+*vamos editar o texto 
+barra lateral esquerda do "editar texto" > conteudo > texto > adicione o texto
+barra lateral esquerda do "editar texto"> estilo >
+cor de texto >  selecione a cor > manteremos o cinza
+tipografia > editar no "lapis" > em familia > digite a Fonte: Raleway
+em tamanho > selecione 16 
+
+*Vamos duplicar dois divisores
+no divisor do cachorrinho 
+passe o mouse sobre o divisor > selecione a 6 bolinhas com o botão direito > 
+selecione a opção duplicar >  selecione o item duplicado nas bolinhas > arraste para debaixo do banner 
+para salvar > atualizar
+
+no divisor de duas colunas
+passe o mouse sobre o divisor > selecione a 6 bolinhas com o botão direito > 
+selecione a opção duplicar >  selecione o item duplicado nas bolinhas > arraste para debaixo do banner 
+para salvar > atualizar
+
+*Altere o Título: BIODEGRADÁVEL
+*Altere o texto: Um produto é classificado como biodegradável quando sua decomposição é possível através de agentes naturais e sua matéria prima é absorvida pela natureza sem causar grandes impactos ambientais. 
+
+*Altere a imagem clicando nela > selecione outra imagem 
+
+*Inventar as colunas 
+nas colunas selecionando o icone "editor de coluna" > arrastando para o outro lado
+
+Salve as alterações > atualizar
+
+Nas 3 linhas > sair
+
+confira o site e saia em "admin".
