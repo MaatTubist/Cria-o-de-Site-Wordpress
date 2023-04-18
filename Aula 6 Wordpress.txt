@@ -1,0 +1,115 @@
+Aula 6
+
+*Para iniciarmos
+No Localwp > 
+Na barra lateral esquerda selecione o projeto >
+No canto superior direito clique em "start site" > 
+clique em "WP Admin" para iniciar a pagina do adm
+
+faça login com suas informações:
+-username
+-password
+ 
+*Abrir o elementor
+Na barra lateral esquerda do WP > oceanWP > 
+editar rodapé> abrir elementor
+
+Vamos editar o "Item da Lista #1"
+selecione para abrir as conf > na barra lateral esquerda > conteudo >
+itens > texto > altere para Início >
+link > altere para "/"
+feche a aba inicio >
+
+Na barra lateral esquerda > conteudo > duplicar item (icone de duas folhas)>
+em texto > altere para Contato 
+link > altere para /contato
+
+Na barra lateral esquerda > estilo > icone > normal > cor >
+digite o codigo Azul: #2fa1ed >
+
+para alterar a cor quando passar o mouse 
+icone > hover > cor > digite o codigo Marrom: #452111 
+
+Na barra lateral esquerda > texto > tipografia > familia >
+altere para Raleway > em cor > digite o codigo Azul: #2fa1ed >
+hover > cor > digite o codigo Marrom: #452111
+salve em > atualuizar
+
+Vamos duplicar o titulo "intitucional"
+clique com o botão direito > duplicar > selecione(laapis) >
+arraste para outra coluna 
+altere o nome para "Contato"
+
+Vamos duplicar o itens 
+clique com o botão direito > duplicar > selecione(laapis) >
+arraste para outra coluna
+na barra lateral esquerda > conteudo > duplique mais um item
+no primeiro item > altere para Minha Conta 
+no segundo item > altere para Carrinho 
+no terceiro item > altere para Finalizar Compra
+todos os links dos itens seram "#"
+
+**Coluna 4
+Duplique o titulo Conta
+selecione com o botão direito > duplicar > 
+arraste para a 4(quarta) coluna > altere para FORMAS DE PAGAMENTO 
+selecione o arquivo de imagem em dowload > arraste para a coluna 
+
+Duplique o titulo "FORMAS DE PAGAMENTO"
+clque no titulo com botão direito> duplicar > selecione(lapis)
+arraste para baixo da imagem de pagemento 
+altere o nome para REDES SOCIAIS
+
+Na barra lateral esquerda > 9 quadradinhos > pesquise "Item: Ícones Sociais"
+Barra lateral esquerda > conteudo > icones sociais > exclua um item >
+altere o primeiro item > biblioteca de icone > selecione o icone do Instagram > iserir 
+cor oficial > personalizar > na cor primaria > Marrom #452111 > cor secundaria > inserir Amarelo #ffd600
+link instagram https://instagram.com/meuperfil
+altere o segundo item > biblioteca de icone > selecione o icone do whatsapp > inserir
+cor oficial > personalizar > na cor primaria > Marrom #452111 > cor secundaria > inserir Amarelo #ffd600
+link whatsapp https://api.whatsapp.com/send?phone=5511912345678
+(observação - Não é necessario mudar as cores no Whatsapp)
+
+na barra lateral esquerda
+forma > alterar para circulo
+colunas > alterar para 2
+alinhamento > alterar para primeira opção > esquerda
+salve as alterações em atualizar
+
+vamos editar nosso fundo
+Na nossa estrutura > clique na 6 bolinhas para edição
+barra lateral esquerda > layout > esticar seção > 
+ative para "sim"(quando adicionar fundo nao teremos margem)
+barra lateral esquerda >estilo > fundo > tipo de fundo > 
+selecione classico (pinsel) >cor > digite o codigo Amarelo: #ffd600
+salve em atualizar e saia
+volte para o Painel Adiministrativo do WP
+
+No painel ADM do WP 
+Barra lateral esquerda > oasse o mouse em aparencia > personalizar
+
+Em personalização
+barra lateral esquerda > rodape inferior > desmaque a caixinha "ativar rodape inferior"
+volte menu pricipal 
+barra lateral esquerda > widgets do rodapé > selecione modelo > selecione o Rodapé
+cor de fundo > selecionar cor > digite o codigo Amarelo #ffd600 (ira retirar as margem superior e inferior cinza)
+salve em > publicar 
+saia no "X" para voltar no Painel do WP e visite o site
+
+No site > inicio > editar com elementor 
+
+**Necessario dominio e hospedagem para colocar o site no ar**
+Sempre usar as informações de hospedagem do DNS(apontamento de DNS) para o seu dominio
+Evitar hospedagem gratuita e de terceiros
+dependendo do plano de hospedagem pode se ter mais de um site
+
+
+onde comprar aqui no Brasil
+registro.com.br 
+dominio = www.google.com.br
+.com.br = Nacional
+.com = Internacional
+
+onde comprar aqui no Brasil
+locaweb.com.br
+Hospedagem = hospedar os arquivos do site na internet
