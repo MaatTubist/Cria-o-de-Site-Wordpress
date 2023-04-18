@@ -1,0 +1,27 @@
+Aula 7
+
+*Para iniciarmos
+No Localwp > 
+Na barra lateral esquerda selecione o projeto >
+No canto superior direito clique em "start site" > 
+clique em "WP Admin" para iniciar a pagina do adm
+
+faça login com suas informações:
+-username
+-password
+
+Hospedagem é onde os arquivos do nosso site ficam armazenados na internet
+hostgator - hospedagem wordpress
+
+**Vamos aprender a gerar backup para miigração do site para o WP online
+No painel WP
+Barra lateral esqueda > passe o mouse sobre plugins > adcionar novo
+em pesquisar plugins > All-in-One WP Migration > instalar agora > ativar
+barra lateral esquerda >passe o mouse sobre All-in-One WP Migration >
+exportar > exporta para > arquivo > espere carregar e baixe o arquivo
+
+agora vamos realizar importação
+primeira coisa a fazer é instalar o plugin All-in-One WP Migration
+barra laateral esquerda > passe o mouse All-in-One WP Migration > importar >
+importar a partir de ou arrastar o docx do backup > 
+espere carregar e seu desing estará pronto
