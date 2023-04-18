@@ -1,0 +1,116 @@
+Aula 3
+
+*Criaremos nosso segundo projeto
+
+clicar em "+" > create a new site e depois em continue
+nomear site (aqui supersequinho) *observação: no "local site path" não usar caracteres especiais)
+selecionar preferred
+registrar informações *importante*(usar nomes e senhas fortes para uso profissional)
+-username admin
+-password 123
+-email maat.fernandes05@gmail.com
+clicar em add site
+
+*Para iniciarmos
+No Localwp > 
+Na barra lateral esquerda selecione o projeto >
+No canto superior direito clique em "start site" > 
+clique em "WP Admin" para iniciar a pagina do adm
+
+faça login com suas informações:
+-username
+-password
+
+*Vamos alterar o idioma e o fuso horário
+
+Barra lateral esquerda clicar em *settings* >
+em "site language" alterar para Português Brasil >
+em "timezone" alterar o fuso horario para "utc -3" >
+salvar alterações
+
+Instalar um Tema:
+barra lateral esquerda > passar o mouse sobre aparencia > temas
+clicar em "adicionar novo" > pesquisar tema "OceanWP" > 
+passar o mouse sobre o tema e Selecionar > Instalar > Ativar
+Ativando teremos uma notificação > instalar "Ocean Extra plugin"
+
+Instalar o Pluguin Elementor website builder:
+
+Barra lateral esquerda > passar mouse sobre Plugins > adicionar novo
+instalar "Elementor website builder" > ativar
+Fechar ou Skip em qualque notificação
+
+Agora vamos ver nosso logos:
+Barra lateral esquerda > aparencia > personalizar
+vamos para outra pagina
+barra lateral esquerda > cabeçalho > Logo
+selecionar logo > adicionar imagem > selecionar > pular recorte
+
+Na barra lateral esquerda > altura maxima = "225"
+salve em publicar
+
+saia da opção logo e cabeçalho
+barra lateral esquerda > cabeçalho > geral
+cor de fundo > digite o  codigo Amarelo: #ffd600
+salve em publicar
+
+alterar a cores da pagina
+barra lateral esquerda > opção geral > titulo da pagina
+Cor de fundo > digite o codigo Azul: #2fa1ed
+Cor do texto > digite o codigo Amarelo: #ffd600
+Cor do texto > digite o codigo Amarelo: #ffd600
+Cor do separador > digite o codigo Amarelo: #ffd600
+Cor do link > digite o codigo Amarelo: #ffd600
+Cor do link: Hover > digite o codigo Branco: #ffffff
+salve em pulicar > saia cicando no *X*
+
+Vamos criar uma pagina inicio
+Bara lateral esquerda > Pagina > adicionar novo
+Adicione titulo "Inicio" > publicar 2x
+Volte usano o icone do "WP"
+
+Vamos criar uma pagina contato
+Bara lateral esquerda > Pagina > adicionar novo
+Adicione titulo "Contato" > publicar 2x
+
+Agora vamos criar o menu
+Barra lateral esquerda > aparencia > menus
+Em Nome do menu "Principal > Criar menu
+Selecione "Inicio" > Adicionar ao menu 
+Selecione "Contato" > Adicionar ao menu
+Em Configuração do Menu Selecionar > "Principal"
+
+Agora vamos voltar em PErsonalizar
+Barra lateral esquerda > aparencia > personalizar
+barra lateral esquerda > configurações da pagina inicial
+selcione > uma pagina estatica
+pagina inicial selecione > inicio
+salve em publicar
+saia no "X" e verefique se carrega sua pagina inicio
+
+Volte em personalizar 
+Barra lateral esquerda > opções gerais > configuraçoes gerais
+No primeiro layout > alterar para terceira imagem 
+salve em publicar e saia com "X"
+
+Agora vamos editar com Elementor
+
+Em Painel
+Barra lateral esquerda > Paginas > editar "Inicio" > "editar com elementor"
+Clique em "+" > Selecione a Primeira estrutura
+na barra lateral direita > do lado de "editar seção" clique no quadrado de 9 quadradinhos
+selecione divisor > arraste para estrutura
+para salvar > Atualizar 
+
+
+
+
+
+
+
+
+
+
+
+
+
