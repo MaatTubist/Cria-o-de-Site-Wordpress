@@ -1,0 +1,122 @@
+Aula 2
+
+para iniciarmos a aula
+Abra o Localwp > 
+Na barra lateral esquerda selecione o projeto >
+No canto superior direito clique em "start site" > 
+clique em "WP Admin" para iniciar a pagina do adm
+
+faça login com suas informações:
+-username
+-password
+
+iremos ver os posts
+
+passo 1
+vá na barra lateral esquerda > posts
+
+passo 2
+clique em "editar" no post que criamos
+
+passo 3
+clicar em "definir imagem destacada" 
+
+passo 4 
+selecionar arquivo de imagem > definir imagem destacada
+
+passo 5
+Em publicar clique em "atualizar" > veja como mudou o blog
+
+passo 6 
+Passe o mouse sobre posts > categorias
+Editar em Brasil > alterar nome e slug de Brasil para Brazil
+
+Agora vamos desativar o Editor classico
+
+passo 1
+Vá em Plugins > Plugins instalados > 
+em editor classico > desativar
+
+EM POSTS > Adicionar Novo
+
+Adicionar titulo e assunto
+
+Criar novas categorias
+passo 1
+Adicionar nova categoria > em nome "Europa" > em categoria "ascendente"
+
+passo 2
+Adicionar nova categoria > em nome "Paris" > em categoris "Europa"
+
+passo 3
+em barra lateral direita 
+Imagem destacada > definir imagem destacada > selecione a imagem > definir imagem destacada
+
+passo 4 
+No canto superior direito
+Publicar > Publicar > ver post
+
+Vamos instalar um novo Plugin "Profile Widget Ninja"
+
+Vá em Plugins > Adicionar novo > Pesquisar Plugins "Profile Widget Ninja"
+Instalar agora > ativar
+
+Vamos instalar Um novo Plugins "Widgets Classicos"
+Vá em Plugins > Adicionar novo > Pesquisar Plugins "Widgets Classicos"
+Instalar agora > ativar
+
+passo 1
+barra lateral esquerda
+Passe o mouse em Aparencia > Widgets 
+
+passo 2
+arraste "Profile Widget Ninja" para "barra lateral direita"
+
+passo 3 
+em "name" > adicione seu nome 
+
+passo 4
+em "profile description" > escreva a "Descrição do Autor(a)."
+
+passo 5 
+em "Facebook URL" adicionar seu Facebook
+
+passo 6 
+em "Instagram URL" Adicionar seu Instagram
+*Salve as Alterações.
+
+Agora iremos ver as midias
+
+passo 1
+Em barra lateral esquerda
+Midia > arraste o arquivo de imagem
+
+passo 2
+clique na imagem > em URL do Arquivo selecione e copie o link
+volte a aparencias > widgets
+
+passo 3
+cole o URL em "Profile Image URL" > salvar alterações
+acesse o site para ver o resultado.
+
+
+Iremos instalar o Plugin do Botão do Whatsapp
+
+Em barra lateral esquerda
+passar mouse sobre plugins > adicionar novo > 
+pesquisar "JoinChat" > Instalar agora > Ativar
+
+*Agora Joinchat está em nossa barra lateral esquerda.
+
+Vá em Joinchat > adicione o numero em "telefone"(apenas numeros)
+Salve as Alterações e confira o blog.
+
+
+
+
+
+
+
+
+
+
