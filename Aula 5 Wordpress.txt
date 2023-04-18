@@ -1,0 +1,172 @@
+Aula 5
+
+*Para iniciarmos
+No Localwp > 
+Na barra lateral esquerda selecione o projeto >
+No canto superior direito clique em "start site" > 
+clique em "WP Admin" para iniciar a pagina do adm
+
+faça login com suas informações:
+-username
+-password
+
+Vamos adicionar uma imagem de fundo e uma estrutura
+Na barra lateral esquerda do WP > Paginas > 
+editar inicio> abrir elementor
+
+Clique em "+" > selecione a estrutura de uma coluna 
+Copie o Titulo de "Biodegradavel
+passe o mouse sobre o titulo > clique com o botão direito > 
+selecione a opção duplicar >  selecione o editor (icone de lapis) > arraste para nova estrutura 
+altere o titulo > SUPERSEQUINHO 2023
+Na barra lateral esquerda > conteudo > alinhamento > escolha o opção de centralizar
+
+Copie o Texto
+passe o mouse sobre o texto > clique com o botão direito > 
+selecione a opção duplicar >  selecione o editor (icone de lapis) > arraste para nova estrutura abaixo de titulo
+altere o texto > Todos os direitos reservados.
+Na barra lateral esquerda > estilo > alinhamento > escolha o opção de centralizar
+
+passe o mouse sobre a estrutura > botão direito nas 6 bolinhas > editar seção
+barra lateral esquerda > layout > esticar seção = sim
+
+em estilo > tipo de fundo > classico (pinsel) > escolher imagem 
+selecione a imagem nos arquivos > selecione a imagem > insira em "Selecionar"
+
+barra lateral esquerda > layout > altura > altere para "Ajustar à tela"
+
+volte em estilo > posição > altere para "Centralizada"
+
+em estilo > abra a aba sobreposiçao de fundo > tipo de fundo personalizado (pinsel)
+em cor > digite o codigo do Amarelo: #ffd600 > 
+em opacidade > altere para 0,4
+
+copiar o divisor do cachorrinho 
+passe o mouse sobre o divisor > selecione a 6 bolinhas com o botão direito > 
+selecione a opção duplicar >  selecione o item duplicado nas bolinhas > arraste entre a imagem de fundo e o biodegradevel
+salve em > atualizar
+volte para WP
+
+Vamos editar a pagina contato
+Na barra lateral esquerda do WP > Paginas > 
+editar contato > abrir elementor
+
+Título: Ainda está com dúvidas? Entre em contato com a gente!
+
+Na barra lateral esquerda > selecione titulo > 
+arraste para o "+" > automaticamento criou nossa estrutura > insira o titulo
+Na barra lateral esquerda > conteudo > tamanho > altere para grande
+
+Na barra lateral esquerda > estilo > cor de texto > selecione a cor > digite o codigo do Marrom: #452111 
+tipografia > selecione o lapis > altere para Fonte: Raleway  > em peso > altere para 800(Negrito Extra)
+
+Vamos criar uma nova estrutura 
+Clique em "+" > selecione a estrutura de duas colunas
+selecione a estrutura da direita > barra lateral esquerda >
+selecione google maps > arraste para coluna direita
+Na barra lateral esquerda > conteudo  > local > 
+insira o endereço > R. Niterói, 180 - Centro, São Caetano do Sul - SP, 09510-200
+em zoom > altere para 15
+
+Na barra lateral esquerda > selecione titulo > arraste para debaixo do maps
+cole as informaçoes:
+Horário de Atendimento: segunda a sexta das 9 às 18 horas.
+ 
+E-mail: contato@supersequinho.com.br
+ 
+WhatsApp: (11) 91234-5678
+
+queremos que o e-mail seja um link 
+selecione todo o email > na barrinha superior > selecione o quarto icone (clipes)
+cole: mailto:contato@supersequinho.com.br > selecione a caixinha branca
+já estará redirecionando para o email.
+
+faremos o mesmo procedimento com o Numero
+selecione o numero > na barrinha superior > selecione o quarto icone (clipes)
+cole: https://api.whatsapp.com/send?phone=5511912345678 > selecione a caixinha branca
+já estará redirecionando para o numero.
+salve as alterções em > atualizar
+
+Na barra lateral esquerda > estilo > tipografia > selecione o lapis >
+altere para Fonte: Raleway > altere o tanho para 16
+salve as alterções em > atualizar
+saia do elementor
+
+No painel administrativo
+passe o mouse em plugins > adicionar novo
+em "pesquisar plugins" > Formulário de contato do WPForms — Arraste e solte para criar formulários no WordPress
+instalar agora > ativar 
+na pagina de boas vindas la em baixo > cliique em criar primeiro formulario
+ou Na barra lateral esquerda > wpforms > novo formulario
+No wpforms > formulario branco > criar formulario em branco
+
+Na barra lateral esquerda > selecione nome > arraste para o painel direito
+clique no campo do nome > barra lateral esquerda abriu as conf. do campo >
+avançado > tamnho de campo > alterar para grande
+saia voltando pela opção > adicionar campos
+
+Na barra lateral esquerda > selecione "campo de texto" >
+arraste para debaixo do nome no painel > selecione ele no painel>
+geral > rotulo > alterar para assunto > selecionar obrigatorio 
+em avançado > tamanho do campo > alterar para grande 
+salve as alterações.
+
+volte para "adicionar campos"
+
+Na barra lateral esquerda > selecione "email" >
+arraste para debaixo do assunto no painel > selecione ele no painel> 
+em geral > selecionar obrigatorio 
+em avançado > tamanho do campo > alterar para grande 
+
+volte para "adicionar campos"
+
+Na barra lateral esquerda > selecione "area de texto" >
+arraste para debaixo do email no painel > selecione ele no painel> 
+em geral > selecionar obrigatorio 
+em avançado > tamanho do campo > alterar para grande 
+salve as alterações.
+
+Na barra lateral esquerda > Icone configuraçoes > 
+aba notificações - aqui podemos alterar o contato de email
+em linha de assunto de email > Novo Contato do Site
+salve as alterações e saia no "X"
+
+No painel ADM do WP
+barra lateral esquerda > paginas > 
+editar contato > editar com elementor>
+
+Vamos inserir nosso formulario
+na barra lateral esquerda do elementor > barra de busca > WP
+selecione WPForms > arraste para a coluna > selecione contato
+salve as alterações em atualizar e saia do elementor
+
+Vamos trabalhar no nosso rodapé
+
+Instale o Plugin Ocean Extra se
+No painel ADM WP
+barra lateral esquerda > oceanWP > my library > "Add New" >
+adicione titulo > clique em publicar 2X para ciar >
+editar com elementor
+
+Clique em "+" > selecione a estrutura de 4 colunas >
+Na barra lateral esquerda > 9 quadradinhos > 
+selecione imagem > arraste para primeira coluna >
+barra latera esquerda > conteudo > imagem >
+escolher imagem > selecione imagem > adicione em Selecionar
+
+Na barra lateral esquerda > 9 quadradinhos > 
+selecione "titulo" > arraste para segunda coluna >
+altere o titulo : INSTITUCIONAL
+na barra lateral esquerda > estilo > titulo >
+cor de texto > selecione a cor > digite o codigo Azul: #2fa1ed
+tipografia > familia > alterar para Raleway 
+peso > altere para 800(negrito extra)
+
+Na barra lateral esquerda > 9 quadradinhos > 
+na barra de busca > Lista de icones > selecione > arraste para baixo de "INSTITUCIONAL"
+na barra lateral esquerda > conteudo > remova os itens 2 e 3 no "X"
+salve em atualizar > saia do elementor e feche o WP 
+
+
+
+
